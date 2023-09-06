@@ -1,0 +1,327 @@
+
+*{  margin: 0%;
+    padding: 0%;
+
+}
+
+nav{
+
+    padding: 0px 0px 0px 0px;
+}
+
+header{
+    width: 100%;
+    height: 220px;
+    box-shadow: 0px 3px 2px black;
+    background-image: url(IMG/footer.webp) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    margin: 0px 0px 16px 0px ;
+}
+
+.main1{
+
+    min-width: 400px;
+    max-width: 1200px;
+     height: 900px;
+     background-color: white;
+     margin: auto;
+     box-shadow: 0px 5px 5px black;
+     border-radius: 6px;
+     padding: 0px 14px 17px 14px ;
+   
+ }
+
+ #inicial{ background-attachment: fixed;
+       background-image: linear-gradient(to bottom, #55C6F9 , #003CD0,#041C76 );
+ }
+  
+ header>nav>a{
+     text-decoration: none;
+     color: beige;
+     margin: 0px 0px 10px 7px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 20px;
+     padding: 13px
+ }
+
+ main>h1{  
+       margin: 0%;
+       padding: 26px 25px 0px 0px ;
+       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+      text-indent: 25px;
+ }
+
+ 
+
+ h1>img{  width: 40px; 
+          height: 40px;
+          padding: 0px 0px 0px 18px;
+          margin: 0%;
+ }
+
+
+
+p.ajustedoP{ 
+    
+    text-align: justify;
+    padding: 25px 0px 25px 0px ;
+    text-indent: 18px;
+    margin: 0px 0px 0px 30px ;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+       
+}
+
+.h12{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+    text-indent: 25px;
+    background-image: linear-gradient(to left, #b2e6eb2f , #00b5e228,#1fc9cf  );
+    padding: 1px 1px 1px 1px ;
+    margin: 0px;
+}
+
+header>nav>a:hover{
+    border-radius: 40px;
+    background-color: #00B2C6;
+    text-shadow: 0px 3px 2px black;    
+}
+
+.edit2{
+
+  color: white;
+  background-color: rgb(95, 95, 245);
+  padding: 0px 0px 10px 0px;
+  
+}
+
+footer>p{
+
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    margin: 20px 0px 0px 0px;
+
+    padding: 10px 0px 0px 0px ;
+
+    font-weight: bolder;
+    
+}
+
+.ajustep1{
+
+
+       text-align: justify;
+       padding: 0px 0px 20px 0px ;
+       text-indent: 18px;
+       margin: 0px 0px 0px 30px ;
+       font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       font-weight: bolder;
+    
+}
+
+ul{
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    padding: 20px 0px 10px 20px ;
+
+}
+
+
+ol{
+
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    padding: 20px 0px 0px 20px ;
+
+}
+
+
+.PdoUL{
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    padding: 13px 0px 0px 0px ;
+
+}
+
+#ul1{
+
+    width: 40px;
+    height: 40px;
+    padding: 0px 0px 0px 7px;
+}
+
+#ul2{
+    width: 43px;
+    height: 43px;
+    padding: 0px 0px 0px 24px;
+
+}
+
+
+#ul3{
+    width: 50px;
+    height: 50px;
+    padding: 0px 0px 0px 7px;
+
+}
+
+
+#ul4{
+    width: 50px;
+    height: 50px;
+    padding: 0px 0px 0px 19px;
+
+}
+
+
+
+/*   estilo do css    */
+
+#CSS{
+
+    background-image: url(IMG/css.jpg) ;
+
+}
+
+
+
+
+#pag2{ background-attachment: fixed;
+       background-image: linear-gradient(to bottom, #0abbb59f , #0abbb5cf,#4169E2);
+}
+
+
+.CSSP{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+    text-indent: 25px;
+    background-image: linear-gradient(to left,#0abbb50e , #0abbb514,#B0FEFE );
+    padding: 1px 1px 1px 1px ;
+    margin: 0px;
+}
+
+
+
+a.link{
+
+ text-decoration: none;
+ color: black;
+    
+}
+
+
+.tmlink{
+
+ width: 30px;
+ height: 30px;
+ padding: 0px 0px 0px 13px;
+
+}
+
+
+ul>li>a:hover {
+color: #673DE8;
+
+}
+
+
+/*   estilo do html    */   
+
+#html{
+
+background-image: url(IMG/html.png);
+
+}
+#a1{
+       text-shadow: 0px 3px 2px black;  
+
+}
+
+#pag3{
+    
+       background-attachment: fixed;
+       background-image: linear-gradient(to bottom, #fca0019c , #f38b23b7,#E3651B );
+}  
+
+
+.htmlp{
+
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+      text-indent: 25px;
+      background-image: linear-gradient(to left,#feb8901d , #ffbb0075,#FFA750 );
+      padding: 1px 1px 1px 1px ;
+      margin: 0px;
+}
+
+
+
+
+/*   estilo do JavaScript   */
+
+
+#javas{
+
+     background-image: url(IMG/javaS.png);
+    }
+
+
+#pag4{ 
+    background-attachment: fixed;
+    background-image: linear-gradient(to bottom, #0f0f0fc9 ,#050801,#050801);
+    }
+
+
+
+.javap{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+        text-indent: 25px;
+        background-image: linear-gradient(to left,#1a17100a , #050801e9,#050801 );
+        padding: 1px 1px 1px 1px ;
+        margin: 0px;
+        color: white;
+    }
+
+ #p99{ 
+        width: 70px; 
+        height: 40px;
+        padding: 0px 0px 0px 18px;
+        margin: 0%;
+ }
+
+
+
+    /*   estilo do php  */
+    
+
+#php{
+            background-image: url(IMG/php-programming-and-coding-vector-30523793.webp);
+     }
+
+#pag5{      background-attachment: fixed;
+            background-image: linear-gradient(to bottom ,#0A0B33,#0A0B33,#0a0b33ee);
+        }
+
+        .phpp{
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif  ;
+            text-indent: 25px;
+            background-image: linear-gradient(to left,#3f53e735 ,   #c50b9ace,#9029B9 );
+            padding: 1px 1px 1px 1px ;
+            margin: 0px;
+        }
+
+#a100{
+
+
+           width: 70px; 
+           height: 70px;
+           padding: 0px 0px 0px 20px;
+           margin: 0%;
+ }
+ 
+        
+
+      
